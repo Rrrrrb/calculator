@@ -1,3 +1,5 @@
-print("we are here!")
-print(" first change")
-print("2nd change------")
+def add(x, y):
+    return x + y
+
+def subtract(x, y):
+    return x - y
